@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+grpcio-tools
+grpcio
+protobuf
